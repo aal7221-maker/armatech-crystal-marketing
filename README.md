@@ -2,6 +2,12 @@
 
 Marketing assets for **Armatech Associates** (MIDC Bhosari, Pune, est. 1980), which makes the *Crystal* range of magnetic and non-magnetic workholding. I made them with generative-AI tools (Higgsfield, image models) and finished them with code: Python/PIL compositing and ffmpeg.
 
+## ▶ Watch the promo
+
+[![Crystal VMM promo: click to play](vmm-promo-video/poster.jpg)](https://aal7221-maker.github.io/armatech-crystal-marketing/)
+
+**[▶ Play the video in your browser](https://aal7221-maker.github.io/armatech-crystal-marketing/)** (49 s, 1080p). GitHub's file viewer can't play MP4 files, so the video is hosted on GitHub Pages.
+
 ## Contents
 
 | Folder | What's inside |
