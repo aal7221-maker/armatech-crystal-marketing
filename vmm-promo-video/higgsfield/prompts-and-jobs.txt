@@ -1,0 +1,94 @@
+===== 7f42fd6c-2091-4821-a98b-b9c11bf8448c 2026-11-07T06:02:43.143667Z 30s
+PROMPT: Frame 1 / Start Frame.
+It directs a smooth, steady camera sweep while detailing the exact metrology subsystems (granite foundation, telecentric optical zoom, dual lighting paths, and linear scales) to guide the AI's rendering of lighting and textures.
+Master Positive Prompt
+Plaintext
+Commercial product showcase video, slow 35-degree cinematic orbital tracking shot around an industrial optical video measuring machine on a stainless steel workbench, square brushed satin-silver Z-axis column, solid black speckled granite foundation with beveled edges, optical glass measurement stage flanked by precision chrome micrometer thumbscrews, cylindrical industrial zoom lens barrel with a circular 8-zone programmable LED surface ring light, green substage bottom parallel LED light glowing cleanly through the glass, high-tech dimensional metrology cleanroom laboratory backdrop with soft reflections, subtle directional key lighting sweeping across anodized metal surfaces, smooth controlled motion, zero geometric warping, razor-sharp focus, shot on 35mm cine lens, f/2.8, 8k commercial finish.
+
+Master Negative Prompt
+Plaintext
+deformed geometry, melting metal, bending column, misaligned rails, floating elements, morphing screws, text artifacts, brand logos, jerky motion, fast pan, flickering lights, warped glass, cartoonish render, plastic toy look, human hands, camera blur, low fidelity, digital noise
+
+Higgsfield Engine Configuration
+Mode: Image-to-Video (I2V)
+Model Engine: Seedance 2.5 or Kling 3.0
+Start Frame: watermarked_img_3177158144252487719.jpg
+Motion Strength / Intensity: 2.8 – 3.2 / 10 (Crucial: Keeping motion low ensures straight vertical column guides, flat granite planes, and fine thumbwheels remain geometrically rigid)
+Resolution: 1080p or 4K
+Duration: 5 to 10 seconds
+Post-Production On-Screen Graphics & Technical Spec Callouts
+Because AI video generators cannot reliably render readable, sharp typography, layer these exact specification callouts over the footage in your editing software (Premiere, DaVinci Resolve, or CapCut) using thin technical reticle lines pointing to each subsystem:
+Header Title (Top Left):
+CRYSTAL VIDEO MEASURING MACHINE (VMM)
+High-Precision Non-Contact Optical Metrology | Since 1980
+Callout 1 (Pointing to Optical Barrel & LED Ring):
+Optics & Imaging: Industrial-grade color CCD camera with 0.7–4.5X manual zoom objective (18–195X system magnification)
+VMM_merged.pdf
+
+Illumination: Programmable 8-segment LED surface ring light
+VMM_merged.pdf
+
+Callout 2 (Pointing to Glass Stage & Substage Well):
+Contour Inspection: LED bottom parallel transmission lighting for profile silhouette edge detection
+VMM_merged.pdf
+
+Working Distance: 80 mm | Field of View: 8.1–1.3 mm
+VMM_merged.pdf
+
+Callout 3 (Pointing to Granite Base & Handwheels):
+Linear Scale Resolution: 0.5 µm (0.1 µm optional)
+VMM_merged.pdf
+
+Accuracy & Repeatability: E=2.5+L/100 μmE = 2.5 + L/100\ \mu\text{m}E=2.5+L/100 μm | Repeatability: ±2.5 μm\pm 2.5\ \mu\text{m}±2.5 μm
+VMM_merged.pdf
+
+MEDIA: ['https://d2ol7oe51mr4n9.cloudfront.net/user_3LlNqJlP9kOv2nffrSswwidNydK/36c60be6-7758-4936-b350-333aeae2cde1.png']
+{"created_at": "2026-11-07T06:02:43.143667Z", "display_name": "Cinema Studio 4.0", "id": "7f42fd6c-2091-4821-a98b-b9c11bf8448c", "job_type": "cinematic_studio_video_4_0", "min_result_url": null, "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3LlNqJlP9kOv2nffrSswwidNydK/hf_20261107_060243_7f42fd6c-2091-4821-a98b-b9c11bf8448c.mp4", "status": "completed", "thumbnail_url": "https://cdn.higgsfield.ai/user_3LlNqJlP9kOv2nffrSswwidNydK/hf_20261107_060243_7f42fd6c-2091-4821-a98b-b9c11bf8448c_thumbnail.webp"}
+
+===== 1b3d21f1-df92-4a34-9ac6-a361ac72c159 2026-11-07T05:55:38.709659Z 5s
+PROMPT: Frame 1 / Start Frame.
+It directs a smooth, steady camera sweep while detailing the exact metrology subsystems (granite foundation, telecentric optical zoom, dual lighting paths, and linear scales) to guide the AI's rendering of lighting and textures.
+Master Positive Prompt
+Plaintext
+Commercial product showcase video, slow 35-degree cinematic orbital tracking shot around an industrial optical video measuring machine on a stainless steel workbench, square brushed satin-silver Z-axis column, solid black speckled granite foundation with beveled edges, optical glass measurement stage flanked by precision chrome micrometer thumbscrews, cylindrical industrial zoom lens barrel with a circular 8-zone programmable LED surface ring light, green substage bottom parallel LED light glowing cleanly through the glass, high-tech dimensional metrology cleanroom laboratory backdrop with soft reflections, subtle directional key lighting sweeping across anodized metal surfaces, smooth controlled motion, zero geometric warping, razor-sharp focus, shot on 35mm cine lens, f/2.8, 8k commercial finish.
+
+Master Negative Prompt
+Plaintext
+deformed geometry, melting metal, bending column, misaligned rails, floating elements, morphing screws, text artifacts, brand logos, jerky motion, fast pan, flickering lights, warped glass, cartoonish render, plastic toy look, human hands, camera blur, low fidelity, digital noise
+
+Higgsfield Engine Configuration
+Mode: Image-to-Video (I2V)
+Model Engine: Seedance 2.5 or Kling 3.0
+Start Frame: watermarked_img_3177158144252487719.jpg
+Motion Strength / Intensity: 2.8 – 3.2 / 10 (Crucial: Keeping motion low ensures straight vertical column guides, flat granite planes, and fine thumbwheels remain geometrically rigid)
+Resolution: 1080p or 4K
+Duration: 5 to 10 seconds
+Post-Production On-Screen Graphics & Technical Spec Callouts
+Because AI video generators cannot reliably render readable, sharp typography, layer these exact specification callouts over the footage in your editing software (Premiere, DaVinci Resolve, or CapCut) using thin technical reticle lines pointing to each subsystem:
+Header Title (Top Left):
+CRYSTAL VIDEO MEASURING MACHINE (VMM)
+High-Precision Non-Contact Optical Metrology | Since 1980
+Callout 1 (Pointing to Optical Barrel & LED Ring):
+Optics & Imaging: Industrial-grade color CCD camera with 0.7–4.5X manual zoom objective (18–195X system magnification)
+VMM_merged.pdf
+
+Illumination: Programmable 8-segment LED surface ring light
+VMM_merged.pdf
+
+Callout 2 (Pointing to Glass Stage & Substage Well):
+Contour Inspection: LED bottom parallel transmission lighting for profile silhouette edge detection
+VMM_merged.pdf
+
+Working Distance: 80 mm | Field of View: 8.1–1.3 mm
+VMM_merged.pdf
+
+Callout 3 (Pointing to Granite Base & Handwheels):
+Linear Scale Resolution: 0.5 µm (0.1 µm optional)
+VMM_merged.pdf
+
+Accuracy & Repeatability: E=2.5+L/100 μmE = 2.5 + L/100\ \mu\text{m}E=2.5+L/100 μm | Repeatability: ±2.5 μm\pm 2.5\ \mu\text{m}±2.5 μm
+VMM_merged.pdf
+
+MEDIA: ['https://d2ol7oe51mr4n9.cloudfront.net/user_3LlNqJlP9kOv2nffrSswwidNydK/36c60be6-7758-4936-b350-333aeae2cde1.png']
+{"created_at": "2026-11-07T05:55:38.709659Z", "display_name": "Cinema Studio 4.0", "id": "1b3d21f1-df92-4a34-9ac6-a361ac72c159", "job_type": "cinematic_studio_video_4_0", "min_result_url": null, "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3LlNqJlP9kOv2nffrSswwidNydK/hf_20261107_055538_1b3d21f1-df92-4a34-9ac6-a361ac72c159.mp4", "status": "completed", "thumbnail_url": "https://cdn.higgsfield.ai/user_3LlNqJlP9kOv2nffrSswwidNydK/hf_20261107_055538_1b3d21f1-df92-4a34-9ac6-a361ac72c159_thumbnail.webp"}
+
